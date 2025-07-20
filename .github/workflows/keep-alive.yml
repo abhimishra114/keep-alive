@@ -19,4 +19,4 @@ jobs:
                   # Anik Adhikari
                   curl -L https://varta-jnsl.onrender.com/
                   # Avishkar
-                  https://expense-manager-276w.onrender.com/
+                  curl -L https://expense-manager-276w.onrender.com/
