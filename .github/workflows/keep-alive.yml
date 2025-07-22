@@ -19,5 +19,3 @@ jobs:
                   curl -L https://quick-dump.onrender.com/
                   # Anik Adhikari
                   curl -L https://varta-jnsl.onrender.com/
-                  # Avishkar
-                  curl -L https://expense-manager-276w.onrender.com/
