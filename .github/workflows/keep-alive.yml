@@ -17,5 +17,6 @@ jobs:
                   curl -L https://roadmapai-7it5.onrender.com/ 
                   curl -L http://krishi-connect-app.onrender.com/
                   curl -L https://quick-dump.onrender.com/
+                  curl -L https://quickdump.onrender.com/
                   # Anik Adhikari
                   curl -L https://varta-jnsl.onrender.com/
